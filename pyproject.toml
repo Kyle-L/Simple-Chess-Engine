@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "Simple Chess Engine"
+version = "1.0.0"
+description = "A simple Python Chess Engine"
+authors = ["Kyle Lierer <liererkt@gmail.com>",]
+license = "MIT"
+readme = "README.md"
+repository = "https://github.com/Kyle-L/Simple-Chess-Engine"
+homepage = "https://github.com/Kyle-L/Simple-Chess-Engine"
+documentation = "https://github.com/Kyle-L/Simple-Chess-Engine"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+chess = "^1.6.1"
