@@ -1,7 +1,6 @@
 ![Simple Chess Engine](doc/header.svg)
-[![Run on Repl.it](https://repl.it/badge/github/Kyle-L/Simple-Chess-Engine)](https://repl.it/github/Kyle-L/Simple-Chess-Engine)
 
----
+[![Run on Repl.it](https://repl.it/badge/github/Kyle-L/Simple-Chess-Engine)](https://repl.it/github/Kyle-L/Simple-Chess-Engine)
 
 # Table of Contents <!-- omit in toc -->
 
@@ -31,11 +30,13 @@ At the core of minimax is the concept that one player is always trying to maximi
 For instance, say you have an arbitrary game with two turns where one player is trying to have the highest score possible while the other is trying to minimize that player's score. This can be represented by _figure 1_.
 
 _Figure 1._
+
 ![](doc/tree-start.svg)
 
 To determine the best decision for the player trying to maximize, we will start at the bottom and figure out which numbers the other player will choose. Logically, these are the minimums. Once we have these numbers, we can determine that the best decision is the maximum of the found minimums. This looks like figure 2.
 
 _Figure 2_
+
 ![](doc/tree-end.svg)
 
 ## Minimax Pseudocode
