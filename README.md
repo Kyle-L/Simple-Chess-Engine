@@ -1,7 +1,6 @@
 ![Simple Chess Engine](doc/header.svg)
-[![Run on Repl.it](https://repl.it/badge/github/Kyle-L/Simple-Chess-Engine)](https://repl.it/github/Kyle-L/Simple-Chess-Engine)
 
----
+[![Run on Repl.it](https://repl.it/badge/github/Kyle-L/Simple-Chess-Engine)](https://repl.it/github/Kyle-L/Simple-Chess-Engine)
 
 # Table of Contents <!-- omit in toc -->
 
