@@ -1,4 +1,4 @@
-![Simple Chess Engine](doc/header.svg)
+![Simple Chess Engine](doc/header.png)
 
 [![Run on Repl.it](https://repl.it/badge/github/Kyle-L/Simple-Chess-Engine)](https://repl.it/github/Kyle-L/Simple-Chess-Engine)
 
